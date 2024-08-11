@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "in.h": "c",
+        "global.h": "c",
+        "stdio.h": "c"
+    }
+}
